@@ -1,3 +1,4 @@
 !#/bin/bash
 
-echo "My first change to the git repo"
+echo "My first change to the git hub"
+
